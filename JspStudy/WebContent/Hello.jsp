@@ -13,7 +13,7 @@
 		for (int i=0;i<2;i++){
 			out.println("str=>"+"<h1>"+str+"</h1>"+"<br>");
 		}
-		//System.out.println("str => "+str);
+		System.out.println("str => "+str);
 		%>
 	</body>
 </html>
