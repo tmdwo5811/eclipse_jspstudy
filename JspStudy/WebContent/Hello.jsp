@@ -15,5 +15,6 @@
 		}
 		System.out.println("str => "+str);
 		%>
+		<%=str%>
 	</body>
 </html>
